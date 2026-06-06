@@ -1,4 +1,4 @@
-# Bilibili Live Chat Bot
+# Bilibili Live Chat Controller
 
 一个基于Bilibili直播聊天室的游戏控制机器人，可以通过聊天命令控制游戏窗口进行按键操作。
 
